@@ -29,8 +29,8 @@ export default function Home() {
           
           <div dir="rtl" className="flex flex-row justify-center w-full gap-3 sm:flex-col sm:w-auto">
             {
-              Object.keys(letter.forms).map((form) =>
-                <div className="text-center border border-1 border-gray-500 p-3 rounded-md">
+              Object.keys(letter.forms).map((form, formIdx) =>
+                <div key={formIdx} className="text-center border border-1 border-gray-500 p-3 rounded-md">
                   <p className="text-3xl">{letter.forms[form]}</p>
                   <p className="text-gray-500">{form}</p>
                 </div>
