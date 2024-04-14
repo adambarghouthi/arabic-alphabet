@@ -11,6 +11,23 @@ export default function Home() {
 
   return (
     <main className="relative flex min-h-screen flex-col items-center justify-between p-24">
+      <div dir="rtl" className="absolute top-10 flex flex-row items-end max-w-full overflow-x-scroll text-3xl">
+        {
+          alphabet.map((x) =>
+            <button
+              key={x.letter}
+              className={classNames(
+                letter.letter === x.letter ? "text-white -translate-y-5" : "text-gray-500",
+                "cursor-pointer transition ease-in-out px-2.5 py-5 hover:text-white hover:-translate-y-5 duration-100"
+              )}
+              onClick={() => setLetter(x)}  
+            >
+              {x.letter}
+            </button>
+          )
+        }
+      </div>
+
       <div className="flex-1 flex flex-col gap-3 items-center justify-center">
         <div className="flex flex-row flex-wrap items-center gap-10 min-w-3xl">
           <div className="flex flex-col items-center">
@@ -39,24 +56,6 @@ export default function Home() {
           </div>
         </div>
       </div>
-
-      <div dir="rtl" className="absolute bottom-20 flex flex-row items-end max-w-full overflow-x-scroll text-3xl">
-        {
-          alphabet.map((x) =>
-            <button
-              key={x.letter}
-              className={classNames(
-                letter.letter === x.letter ? "text-white -translate-y-5" : "text-gray-500",
-                "cursor-pointer transition ease-in-out px-2.5 py-5 hover:text-white hover:-translate-y-5 duration-100"
-              )}
-              onClick={() => setLetter(x)}  
-            >
-              {x.letter}
-            </button>
-          )
-        }
-      </div>
-      
     </main>
   );
 }
