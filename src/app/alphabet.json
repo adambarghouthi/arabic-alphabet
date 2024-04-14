@@ -1,0 +1,254 @@
+[
+    {
+        "letter": "أ",
+        "name": "alif",
+        "forms": {
+            "start": "ا",
+            "middle": "ـا",
+            "end": "ـا"
+        }
+    },
+    {
+        "letter": "ب",
+        "name": "baa",
+        "forms": {
+            "start": "بـ",
+            "middle": "ـبـ",
+            "end": "ـب"
+        }
+    },
+    {
+        "letter": "ت",
+        "name": "taa",
+        "forms": {
+            "start": "تـ",
+            "middle": "ـتـ",
+            "end": "ـت"
+        }
+    },
+    {
+        "letter": "ث",
+        "name": "thaa",
+        "forms": {
+            "start": "ثـ",
+            "middle": "ـثـ",
+            "end": "ـث"
+        }
+    },
+    {
+        "letter": "ج",
+        "name": "jiim",
+        "forms": {
+            "start": "جـ",
+            "middle": "ـجـ",
+            "end": "ـج"
+        }
+    },
+    {
+        "letter": "ح",
+        "name": "haa",
+        "forms": {
+            "start": "حـ",
+            "middle": "ـحـ",
+            "end": "ـح"
+        }
+    },
+    {
+        "letter": "خ",
+        "name": "khaa",
+        "forms": {
+            "start": "خـ",
+            "middle": "ـخـ",
+            "end": "ـخ"
+        }
+    },
+    {
+        "letter": "د",
+        "name": "dal",
+        "forms": {
+            "start": "د",
+            "middle": "ـد",
+            "end": "ـد"
+        }
+    },
+    {
+        "letter": "ذ",
+        "name": "thal",
+        "forms": {
+            "start": "ذ",
+            "middle": "ـذ",
+            "end": "ـذ"
+        }
+    },
+    {
+        "letter": "ر",
+        "name": "raa",
+        "forms": {
+            "start": "ر",
+            "middle": "ـر",
+            "end": "ـر"
+        }
+    },
+    {
+        "letter": "ز",
+        "name": "zay",
+        "forms": {
+            "start": "ز",
+            "middle": "ـز",
+            "end": "ـز"
+        }
+    },
+    {
+        "letter": "س",
+        "name": "siin",
+        "forms": {
+            "start": "سـ",
+            "middle": "ـسـ",
+            "end": "ـس"
+        }
+    },
+    {
+        "letter": "ش",
+        "name": "shiin",
+        "forms": {
+            "start": "شـ",
+            "middle": "ـشـ",
+            "end": "ـش"
+        }
+    },
+    {
+        "letter": "ص",
+        "name": "saad",
+        "forms": {
+            "start": "صـ",
+            "middle": "ـصـ",
+            "end": "ـص"
+        }
+    },
+    {
+        "letter": "ض",
+        "name": "dhad",
+        "forms": {
+            "start": "ضـ",
+            "middle": "ـضـ",
+            "end": "ـض"
+        }
+    },
+    {
+        "letter": "ط",
+        "name": "taa",
+        "forms": {
+            "start": "طـ",
+            "middle": "ـطـ",
+            "end": "ـط"
+        }
+    },
+    {
+        "letter": "ظ",
+        "name": "thaa",
+        "forms": {
+            "start": "ظـ",
+            "middle": "ـظـ",
+            "end": "ـظ"
+        }
+    },
+    {
+        "letter": "ع",
+        "name": "ain",
+        "forms": {
+            "start": "عـ",
+            "middle": "ـعـ",
+            "end": "ـع"
+        }
+    },
+    {
+        "letter": "غ",
+        "name": "ghain",
+        "forms": {
+            "start": "غـ",
+            "middle": "ـغـ",
+            "end": "ـغ"
+        }
+    },
+    {
+        "letter": "ف",
+        "name": "faa",
+        "forms": {
+            "start": "فـ",
+            "middle": "ـفـ",
+            "end": "ـف"
+        }
+    },
+    {
+        "letter": "ق",
+        "name": "qaaf",
+        "forms": {
+            "start": "قـ",
+            "middle": "ـقـ",
+            "end": "ـق"
+        }
+    },
+    {
+        "letter": "ك",
+        "name": "kaaf",
+        "forms": {
+            "start": "كـ",
+            "middle": "ـكـ",
+            "end": "ـك"
+        }
+    },
+    {
+        "letter": "ل",
+        "name": "laam",
+        "forms": {
+            "start": "لـ",
+            "middle": "ـلـ",
+            "end": "ـل"
+        }
+    },
+    {
+        "letter": "م",
+        "name": "miim",
+        "forms": {
+            "start": "مـ",
+            "middle": "ـمـ",
+            "end": "ـم"
+        }
+    },
+    {
+        "letter": "ن",
+        "name": "nun",
+        "forms": {
+            "start": "نـ",
+            "middle": "ـنـ",
+            "end": "ـن"
+        }
+    },
+    {
+        "letter": "ه",
+        "name": "haa",
+        "forms": {
+            "start": "هـ",
+            "middle": "ـهـ",
+            "end": "ـه"
+        }
+    },
+    {
+        "letter": "و",
+        "name": "waw",
+        "forms": {
+            "start": "و",
+            "middle": "ـو",
+            "end": "ـو"
+        }
+    },
+    {
+        "letter": "ي",
+        "name": "yaa",
+        "forms": {
+            "start": "يـ",
+            "middle": "ـيـ",
+            "end": "ـي"
+        }
+    }
+]
